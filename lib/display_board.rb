@@ -1,4 +1,5 @@
 def capture_puts
+    board = [" "," "," "," "," "," "," "," "," "]
 end
 
 def display_board(board)
